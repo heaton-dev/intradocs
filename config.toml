@@ -2,7 +2,7 @@
 # Docsy #
 # # # # #
 
-baseURL = "/"
+baseURL = "/intradocs"
 title = "Intradocs"
 
 # Language settings
