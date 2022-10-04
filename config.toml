@@ -89,20 +89,23 @@ anchor = "smart"
     pre = "<i class='fas fa-building'></i>"
 
 # Language configuration
-# [languages]
-# [languages.en]
-# title = "Goldydocs"
-# description = "A Docsy example site"
-# languageName ="English"
-# # Weight used for sorting.
-# weight = 1
-# [languages.no]
-# title = "Goldydocs"
-# description = "Docsy er operativsystem for skyen"
-# languageName ="Norsk"
-# contentDir = "content/no"
-# time_format_default = "02.01.2006"
-# time_format_blog = "02.01.2006"
+[languages]
+[languages.en]
+title = "Goldydocs"
+description = "A Docsy example site"
+languageName ="English"
+contentDir = "content/en"
+time_format_default = "2006-01-02"
+time_format_blog = "02/01/2006"
+weight = 1
+
+[languages.no]
+title = "Goldydocs"
+description = "Docsy er operativsystem for skyen"
+languageName ="Norsk"
+contentDir = "content/no"
+time_format_default = "02.01.2006"
+time_format_blog = "02.01.2006"
 
 # # # # # # # #
 # Site Params #
