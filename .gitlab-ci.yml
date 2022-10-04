@@ -1,0 +1,19 @@
+image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+default:
+  before_script:
+    - apk add --update --no-cache git go nodejs npm
+    - git submodule update --init --recursive
+    - npm install -D autoprefixer postcss postcss-cli
+
+pages:
+  script:
+  - hugo -v -D -F --config config.toml -d public
+  artifacts:
+    paths:
+    - public
+  rules:
+  - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
