@@ -16,12 +16,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - name: Prepare repos 🥣
+      - name: Checkout repos 🥣
         uses: actions/checkout@v3
         with:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -31,16 +31,17 @@ jobs:
         with:
           hugo-version: '0.100.2'
           extended: true
-      
-      - name: Setup Node
+
+      - name: Setup Node 🧪
         uses: actions/setup-node@v3
         with:
           node-version: '16'
           cache: 'npm'
-      
-      - run: npm ci
 
-      - name: Cache Hugo modules
+      - name: Install Node packages 🧪
+        run: npm ci
+
+      - name: Cache Hugo modules 📦
         uses: actions/cache@v2
         with:
           path: /tmp/hugo_cache
@@ -51,7 +52,7 @@ jobs:
       - name: Build 🔨
         run: hugo
 
-      - name: Deploy 📦
+      - name: Deploy 🚚
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
