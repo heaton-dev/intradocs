@@ -113,7 +113,7 @@ time_format_blog = "02.01.2006"
 
 [params]
 copyright = "Example Ltd."
-# privacy_policy = "/privacy"
+privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/social_banner.webp"]
