@@ -82,11 +82,11 @@ anchor = "smart"
 
 # Community Menu links
 [menu]
-  [[menu.main]]
-    name = "Our Community"
-    weight = 50
-    url = "https://example.com"
-    pre = "<i class='fas fa-building'></i>"
+  # [[menu.main]]
+  #   name = "Our Community"
+  #   weight = 50
+  #   url = "https://example.com"
+  #   pre = "<i class='fas fa-building'></i>"
 
 # Language configuration
 [languages]
