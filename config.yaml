@@ -1,0 +1,173 @@
+baseURL: /
+title: Intradocs
+contentDir: content/en
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false  # Useful when translating.
+enableMissingTranslationPlaceholders: false
+enableRobotsTXT: true  # Search Engine Optimization
+enableGitInfo: true
+taxonomies:
+  tag: tags
+params:
+  images:
+    - images/social_banner.webp
+  taxonomy:
+    taxonomyCloud:
+      - tags
+    taxonomyCloudTitle:
+      - Tag Cloud
+    taxonomyPageHeader:
+      - tags
+    pygmentsCodeFences: true
+    pygmentsUseClasses: false
+    pygmentsUseClassic: false
+    # pygmentsOptions: linenos=table
+    pygmentsStyle: tango
+  copyright: Example Ltd.
+  privacy_policy: /privacy
+  # Flag used in the "version-banner" partial to decide whether to display a banner on every page indicating that this is an archived version of the docs. Set this flag to "true" if you want to display the banner.
+  archived_version: true
+  version_menu: Releases
+  version_menu_pagelinks: true
+  version: '1.0'  # The version number for the version of the docs represented in this doc set. Used in the "version-banner" partial to display a version number for the current doc set.
+  versions:
+    - version: main
+      url: https://joeheaton.github.io/intradocs/docs/
+    # - version: 0.1
+    #   url: https://joeheaton.github.io/intradocs/docs/
+  url_latest_version: 'https://github.com/joeheaton/intradocs/tree/main'  # A link to latest version of the docs. Used in the "version-banner" partial to point people to the main doc site.
+  github_repo: 'https://github.com/joeheaton/intradocs'  # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+  github_project_repo: 'https://github.com/joeheaton/intradocs'
+  github_subdir: public
+  github_branch: main
+  # gcs_engine_id: d72aa9b2712488cc3  # Google Custom Search Engine ID
+  algolia_docsearch: false  # Enable Algolia DocSearch
+  # Enable Lunr.js offline search
+  offlineSearch: true
+  offlineSearchMaxResults: 25
+  offlineSearchSummaryLength: 200
+  prism_syntax_highlighting: true
+  ui:
+    breadcrumb_disable: false
+    footer_about_disable: false
+    navbar_logo: true
+    navbar_translucent_over_cover_disable: false
+    sidebar_menu_compact: true
+    sidebar_search_disable: true
+    feedback:
+      enable: true
+      'yes': >-
+        Glad to hear it! Please <a
+        href="https://github.com/joeheaton/intradocs/issues/new">tell us how we
+        can improve</a>.
+      'no': >-
+        Sorry to hear that. Please <a
+        href="https://github.com/joeheaton/intradocs/issues/new">tell us how we
+        can improve</a>.
+    readingtime:
+      enable: true
+  links:
+    user:
+      - name: User mailing list
+        url: 'https://example.org/mail'
+        icon: fa fa-envelope
+        desc: Discussion and help from your fellow users
+      - name: Twitter
+        url: 'https://example.org/twitter'
+        icon: fab fa-twitter
+        desc: Follow us on Twitter to get the latest news!
+      - name: Stack Overflow
+        url: 'https://example.org/stack'
+        icon: fab fa-stack-overflow
+        desc: Practical questions and curated answers
+    developer:
+      - name: GitHub
+        url: 'https://github.com/google/docsy'
+        icon: fab fa-github
+        desc: Development takes place here!
+      - name: Slack
+        url: 'https://example.org/slack'
+        icon: fab fa-slack
+        desc: Chat with other project developers
+      - name: Developer mailing list
+        url: 'https://example.org/mail'
+        icon: fa fa-envelope
+        desc: Discuss development issues around the project
+  mermaid:
+    enable: true
+    theme: netural
+    flowchart:
+      diagramPadding: 6
+  plantuml:
+    enable: true
+    theme: default
+    svg_image_url: 'https://www.plantuml.com/plantuml/svg/'
+    # By default the plantuml implementation uses <img /> tags to display UML diagrams.
+    default: false
+    svg: true
+  # MindMap support with MarkMap
+  markmap:
+    enable: true
+  # KaTeX/LaTeX support
+  katex:
+    enable: true
+    errorColor: '#CD5C5C'
+    options:
+      throwOnError: false
+permalinks:
+  blog: '/:section/:year/:month/:day/:slug/'
+outputs:
+  section:
+    - HTML
+    - RSS
+    - print
+# Markdown
+markup:
+  goldmark:
+    footnote: true
+    parser:
+      attribute:
+        block: true
+        title: true
+    renderer:
+      unsafe: true
+  highlight:
+    # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
+    style: tango
+    # Uncomment if you want your chosen highlight style used for code blocks without a specified language
+    guessSyntax: 'true'
+    tabWidth: 2
+# Image processing configuration.
+imaging:
+  resampleFilter: CatmullRom
+  quality: 85
+  anchor: smart
+# services:
+#   googleAnalytics:
+#     id: "UA-00000000-0"
+# Menu links
+menu: {}
+  # main:
+  #   name: Our Community
+  #   weight: 50
+  #   url: http://example.com
+  #   pre: <i class="fas fa-building"></i>
+# Language configuration
+languages:
+  en:
+    contentDir: content/en
+    languageName: English
+    time_format_blog: 02/01/2006
+    time_format_default: '2006-01-02'
+    weight: 1
+module:
+  hugoVersion:
+    extended: true
+    min: 0.75.0
+  # uncomment line below for temporary local development of module
+  # replacement: "github.com/google/docsy -> ../../docsy"
+  imports:
+    - path: github.com/google/docsy
+      disable: false
+    - path: github.com/google/docsy/dependencies
+      disable: false
