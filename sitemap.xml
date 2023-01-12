@@ -2,133 +2,133 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/documentation-project/goldydocs/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/overview/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/overview/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tasks/beds/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tasks/beds/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/getting-started/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/getting-started/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/examples/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/examples/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tutorials/multi-bear/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tasks/porridge/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tasks/porridge/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/concepts/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/concepts/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tasks/task/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tasks/task/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tutorials/tutorial2/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tasks/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tasks/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tutorials/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tutorials/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/reference/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/reference/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/contribution-guidelines/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/contribution-guidelines/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>/intradocs/docs/</loc>
     <lastmod>2022-10-04T22:36:27+01:00</lastmod>
   </url><url>
-    <loc>/blog/2018/10/06/easy-documentation-with-docsy/</loc>
+    <loc>/intradocs/blog/2018/10/06/easy-documentation-with-docsy/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/blog/2018/10/06/the-second-blog-post/</loc>
+    <loc>/intradocs/blog/2018/10/06/the-second-blog-post/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/blog/2018/01/04/another-great-release/</loc>
+    <loc>/intradocs/blog/2018/01/04/another-great-release/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/tags/docs/</loc>
+    <loc>/intradocs/tags/docs/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/getting-started/example-page/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/getting-started/example-page/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/reference/parameter-reference/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/reference/parameter-reference/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/tags/sample/</loc>
+    <loc>/intradocs/tags/sample/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/intradocs/tags/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/tags/test/</loc>
+    <loc>/intradocs/tags/test/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/goldydocs/tasks/ponycopters/</loc>
+    <loc>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/agile-project-0001/</loc>
+    <loc>/intradocs/docs/agile-project-0001/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>/intradocs/blog/</loc>
     <lastmod>2022-10-04T22:36:27+01:00</lastmod>
   </url><url>
-    <loc>/community/</loc>
+    <loc>/intradocs/community/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/intradocs/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/</loc>
+    <loc>/intradocs/docs/documentation-project/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/documentation-project/docsy/</loc>
+    <loc>/intradocs/docs/documentation-project/docsy/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/docs/example-ltd./</loc>
+    <loc>/intradocs/docs/example-ltd./</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/blog/news/</loc>
+    <loc>/intradocs/blog/news/</loc>
     <lastmod>2022-10-04T22:36:27+01:00</lastmod>
   </url><url>
-    <loc>/docs/agile-project-0001/planning/</loc>
+    <loc>/intradocs/docs/agile-project-0001/planning/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/blog/releases/</loc>
+    <loc>/intradocs/blog/releases/</loc>
     <lastmod>2022-10-04T22:36:27+01:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>/intradocs/search/</loc>
     <lastmod>2022-10-04T18:23:35+01:00</lastmod>
   </url><url>
-    <loc>/docs/agile-project-0001/sprints/sprint-001/</loc>
+    <loc>/intradocs/docs/agile-project-0001/sprints/sprint-001/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/docs/agile-project-0001/sprints/</loc>
+    <loc>/intradocs/docs/agile-project-0001/sprints/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/docs/agile-project-0001/sprints/sprint-001/task-001/</loc>
+    <loc>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-001/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/docs/agile-project-0001/sprints/sprint-001/task-002/</loc>
+    <loc>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-002/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url><url>
-    <loc>/docs/agile-project-0001/planning/team/</loc>
+    <loc>/intradocs/docs/agile-project-0001/planning/team/</loc>
     <lastmod>2023-01-12T13:33:40+00:00</lastmod>
   </url>
 </urlset>

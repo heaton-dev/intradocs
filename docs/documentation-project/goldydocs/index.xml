@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Docsy example</title>
-    <link>/docs/documentation-project/goldydocs/</link>
+    <link>/intradocs/docs/documentation-project/goldydocs/</link>
     <description>Recent content in Docsy example on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/documentation-project/goldydocs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/intradocs/docs/documentation-project/goldydocs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Overview</title>
-      <link>/docs/documentation-project/goldydocs/overview/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/overview/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/overview/</guid>
       <description>
         
         
@@ -49,8 +49,8 @@
 &lt;h2 id=&#34;where-should-i-go-next&#34;&gt;Where should I go next?&lt;/h2&gt;
 &lt;p&gt;Give your users next steps from the Overview. For example:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/docs/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/docs/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/intradocs/docs/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/intradocs/docs/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -58,10 +58,10 @@
     
     <item>
       <title>Docs: Getting Started</title>
-      <link>/docs/documentation-project/goldydocs/getting-started/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/getting-started/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/getting-started/</guid>
       <description>
         
         
@@ -96,10 +96,10 @@
     
     <item>
       <title>Docs: Examples</title>
-      <link>/docs/documentation-project/goldydocs/examples/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/examples/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/examples/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/examples/</guid>
       <description>
         
         
@@ -117,10 +117,10 @@
     
     <item>
       <title>Docs: Concepts</title>
-      <link>/docs/documentation-project/goldydocs/concepts/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/concepts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/concepts/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/concepts/</guid>
       <description>
         
         
@@ -131,7 +131,7 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;For many projects, users may not need much information beyond the information in the &lt;a href=&#34;/docs/overview/&#34;&gt;Overview&lt;/a&gt;, so this section is &lt;strong&gt;optional&lt;/strong&gt;. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.&lt;/p&gt;
+&lt;p&gt;For many projects, users may not need much information beyond the information in the &lt;a href=&#34;/intradocs/docs/overview/&#34;&gt;Overview&lt;/a&gt;, so this section is &lt;strong&gt;optional&lt;/strong&gt;. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.&lt;/p&gt;
 &lt;p&gt;Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.&lt;/p&gt;
 
       </description>
@@ -139,10 +139,10 @@
     
     <item>
       <title>Docs: Core Tasks</title>
-      <link>/docs/documentation-project/goldydocs/tasks/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tasks/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tasks/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/</guid>
       <description>
         
         
@@ -168,10 +168,10 @@
     
     <item>
       <title>Docs: Tutorials</title>
-      <link>/docs/documentation-project/goldydocs/tutorials/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tutorials/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/</guid>
       <description>
         
         
@@ -189,10 +189,10 @@
     
     <item>
       <title>Docs: Reference</title>
-      <link>/docs/documentation-project/goldydocs/reference/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/reference/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/reference/</guid>
       <description>
         
         
@@ -211,10 +211,10 @@ Javadoc, or other doc generation tools by putting them in your &lt;code&gt;stati
     
     <item>
       <title>Docs: Contribution Guidelines</title>
-      <link>/docs/documentation-project/goldydocs/contribution-guidelines/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/contribution-guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/contribution-guidelines/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/contribution-guidelines/</guid>
       <description>
         
         
@@ -267,7 +267,7 @@ the content.&lt;/li&gt;
 &lt;p&gt;If you want to run your own local Hugo server to preview your changes as you work:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Follow the instructions in &lt;a href=&#34;/docs/getting-started&#34;&gt;Getting started&lt;/a&gt; to install Hugo and any other tools you need. You&amp;rsquo;ll need at least &lt;strong&gt;Hugo version 0.45&lt;/strong&gt; (we recommend using the most recent available version), and it must be the &lt;strong&gt;extended&lt;/strong&gt; version, which supports SCSS.&lt;/p&gt;
+&lt;p&gt;Follow the instructions in &lt;a href=&#34;/intradocs/docs/getting-started&#34;&gt;Getting started&lt;/a&gt; to install Hugo and any other tools you need. You&amp;rsquo;ll need at least &lt;strong&gt;Hugo version 0.45&lt;/strong&gt; (we recommend using the most recent available version), and it must be the &lt;strong&gt;extended&lt;/strong&gt; version, which supports SCSS.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Fork the &lt;a href=&#34;https://github.com/google/docsy-example&#34;&gt;Goldydocs repo&lt;/a&gt; repo into your own project, then create a local copy using &lt;code&gt;git clone&lt;/code&gt;. Don’t forget to use &lt;code&gt;--recurse-submodules&lt;/code&gt; or you won’t pull down some of the code you need to generate a working site.&lt;/p&gt;

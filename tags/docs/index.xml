@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – docs</title>
-    <link>/tags/docs/</link>
+    <link>/intradocs/tags/docs/</link>
     <description>Recent content in docs on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/intradocs/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Getting Started</title>
-      <link>/docs/documentation-project/goldydocs/getting-started/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/getting-started/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/getting-started/</guid>
       <description>
         
         
@@ -54,10 +54,10 @@
     
     <item>
       <title>Docs: Example Page</title>
-      <link>/docs/documentation-project/goldydocs/getting-started/example-page/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/getting-started/example-page/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/getting-started/example-page/</guid>
       <description>
         
         
