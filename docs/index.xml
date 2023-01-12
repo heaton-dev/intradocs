@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Documentation</title>
-    <link>/intradocs/docs/</link>
+    <link>/docs/</link>
     <description>Recent content in Documentation on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/intradocs/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Bed and Chair Metrics</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tasks/beds/</link>
+      <link>/docs/documentation-project/goldydocs/tasks/beds/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/beds/</guid>
+      <guid>/docs/documentation-project/goldydocs/tasks/beds/</guid>
       <description>
         
         
@@ -328,10 +328,10 @@
     
     <item>
       <title>Docs: Configuring Ponycopters</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</link>
+      <link>/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <guid>/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</guid>
       <description>
         
         
@@ -641,10 +641,10 @@
     
     <item>
       <title>Docs: Launching Ponycopters</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</link>
+      <link>/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</guid>
+      <guid>/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</guid>
       <description>
         
         
@@ -954,10 +954,10 @@
     
     <item>
       <title>Docs: Multi-Bear Domicile Setup</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
+      <link>/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
+      <guid>/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
       <description>
         
         
@@ -1267,10 +1267,10 @@
     
     <item>
       <title>Docs: Porridge Assessment</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tasks/porridge/</link>
+      <link>/docs/documentation-project/goldydocs/tasks/porridge/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/porridge/</guid>
+      <guid>/docs/documentation-project/goldydocs/tasks/porridge/</guid>
       <description>
         
         
@@ -1580,10 +1580,10 @@
     
     <item>
       <title>Docs: Another Task</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tasks/task/</link>
+      <link>/docs/documentation-project/goldydocs/tasks/task/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/task/</guid>
+      <guid>/docs/documentation-project/goldydocs/tasks/task/</guid>
       <description>
         
         
@@ -1893,10 +1893,10 @@
     
     <item>
       <title>Docs: Another Tutorial</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
+      <link>/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
+      <guid>/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
       <description>
         
         
@@ -2206,10 +2206,10 @@
     
     <item>
       <title>Docs: Example Page</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/getting-started/example-page/</link>
+      <link>/docs/documentation-project/goldydocs/getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/getting-started/example-page/</guid>
+      <guid>/docs/documentation-project/goldydocs/getting-started/example-page/</guid>
       <description>
         
         
@@ -2519,10 +2519,10 @@
     
     <item>
       <title>Docs: Parameter Reference</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/reference/parameter-reference/</link>
+      <link>/docs/documentation-project/goldydocs/reference/parameter-reference/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/reference/parameter-reference/</guid>
+      <guid>/docs/documentation-project/goldydocs/reference/parameter-reference/</guid>
       <description>
         
         
@@ -2816,6 +2816,79 @@
 &lt;/div&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;another-heading&#34;&gt;Another Heading&lt;/h2&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Task 001</title>
+      <link>/docs/agile-project-0001/sprints/sprint-001/task-001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/agile-project-0001/sprints/sprint-001/task-001/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:2;-o-tab-size:2;tab-size:2;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@startuml
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Alice -&amp;gt; Bob: Authentication Request
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Bob --&amp;gt; Alice: Authentication Response
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Alice -&amp;gt; Bob: Another authentication Request
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Alice &amp;lt;-- Bob: Another authentication Response
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@enduml
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Task 002</title>
+      <link>/docs/agile-project-0001/sprints/sprint-001/task-002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/agile-project-0001/sprints/sprint-001/task-002/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The plan is to go with this approach, Javascript, HTML, pretty standard stuff.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:2;-o-tab-size:2;tab-size:2;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;// pages/_app.js
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;React&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;react&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;App&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Container&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;next/app&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Layout&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;../components/Layout&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;MyApp&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;extends&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;App&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#000&#34;&gt;render&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Component&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;pageProps&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;this&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;props&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;Container&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;Layout&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;Component&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{...&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;pageProps&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;/&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;/Layout&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#a40000&#34;&gt;/Container&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;default&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;MyApp&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Team</title>
+      <link>/docs/agile-project-0001/planning/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/agile-project-0001/planning/team/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;Kim, Project Manager&lt;/li&gt;
+&lt;li&gt;Bim, Developer&lt;/li&gt;
+&lt;li&gt;Jim, Senior Engineer&lt;/li&gt;
+&lt;li&gt;Tim, Engineer&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>

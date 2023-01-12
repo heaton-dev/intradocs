@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Tutorials</title>
-    <link>/intradocs/docs/documentation-project/goldydocs/tutorials/</link>
+    <link>/docs/documentation-project/goldydocs/tutorials/</link>
     <description>Recent content in Tutorials on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/intradocs/docs/documentation-project/goldydocs/tutorials/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/documentation-project/goldydocs/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Multi-Bear Domicile Setup</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
+      <link>/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
+      <guid>/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
       <description>
         
         
@@ -329,10 +329,10 @@
     
     <item>
       <title>Docs: Another Tutorial</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
+      <link>/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
+      <guid>/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
       <description>
         
         
