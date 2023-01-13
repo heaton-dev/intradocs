@@ -29,13 +29,13 @@ params:
   archived_version: true
   version_menu: Releases
   version_menu_pagelinks: true
-  version: '0.1'  # The version number for the version of the docs represented in this doc set. Used in the "version-banner" partial to display a version number for the current doc set.
+  version: main  # The version number for the version of the docs represented in this doc set. Used in the "version-banner" partial to display a version number for the current doc set.
   versions:
     - version: main
       url: https://joeheaton.github.io/intradocs/docs/
-    # - version: 0.1
-    #   url: https://joeheaton.github.io/intradocs/docs/
-  url_latest_version: 'https://github.com/joeheaton/intradocs/tree/main'  # A link to latest version of the docs. Used in the "version-banner" partial to point people to the main doc site.
+    - version: 0.1
+      url: https://github.com/joeheaton/intradocs/tree/v0.1
+  url_latest_version: 'https://joeheaton.github.io/intradocs/docs/'
   github_repo: 'https://github.com/joeheaton/intradocs'  # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
   github_project_repo: 'https://github.com/joeheaton/intradocs'
   github_subdir: public
