@@ -35,8 +35,8 @@ jobs:
       - name: Setup Node 🧪
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
-          cache: 'npm'
+          node-version: 16
+          cache: npm
 
       - name: Install Node packages 🧪
         run: npm ci
@@ -47,7 +47,7 @@ jobs:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
-            ${{ runner.os }}-hugomod-
+            ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
 
       - name: Build 🔨
         run: hugo
