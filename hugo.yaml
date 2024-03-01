@@ -60,10 +60,10 @@ params:
     sidebar_search_disable: true
     feedback:
       enable: true
-      'yes': >-
-        Glad to hear it! Please <a href="/issues/new">tell us how we can improve</a>.
-      'no': >-
-        Sorry to hear that. Please <a href="/issues/new">tell us how we can improve</a>.
+      "yes": >-
+        Glad to hear it! Please <a href="https://github.com/joeheaton/intradocs/issues/new" target="_blank">tell us how we can improve</a>.
+      "no": >-
+        Sorry to hear that. Please <a href="https://github.com/joeheaton/intradocs/issues/new" target="_blank">tell us how we can improve</a>.
     readingtime:
       enable: true
   links:
