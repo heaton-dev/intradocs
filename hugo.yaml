@@ -1,4 +1,3 @@
-baseURL: /intradocs
 title: Intradocs
 contentDir: content/en
 defaultContentLanguage: en
@@ -26,30 +25,34 @@ params:
   copyright: Example Ltd.
   privacy_policy: /privacy
   # Flag used in the "version-banner" partial to decide whether to display a banner on every page indicating that this is an archived version of the docs. Set this flag to "true" if you want to display the banner.
-  archived_version: true
+  archived_version: false
   version_menu: Releases
   version_menu_pagelinks: true
   version: main  # The version number for the version of the docs represented in this doc set. Used in the "version-banner" partial to display a version number for the current doc set.
-  versions:
-    - version: main
-      url: https://joeheaton.github.io/intradocs/docs/
-    - version: 0.1
-      url: https://github.com/joeheaton/intradocs/tree/v0.1
-  url_latest_version: 'https://joeheaton.github.io/intradocs/docs/'
+  versions: []
+    # - version: main
+    #   url: /docs/
+    # - version: 0.1
+    #   url: /docs/v0.1
+  url_latest_version: '/docs/'  # Link to the latest version
   github_repo: 'https://github.com/joeheaton/intradocs'  # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
   github_project_repo: 'https://github.com/joeheaton/intradocs'
   github_subdir: public
   github_branch: main
   # gcs_engine_id: d72aa9b2712488cc3  # Google Custom Search Engine ID
-  algolia_docsearch: false  # Enable Algolia DocSearch
-  # Enable Lunr.js offline search
-  offlineSearch: true
-  offlineSearchMaxResults: 25
-  offlineSearchSummaryLength: 200
+  search:
+    algolia: null  # Enable Algolia DocSearch
+      # appId: R2IYF7ETH7
+      # apiKey: 599cec31baffa4868cae4e79f180729b
+      # indexName: docsearch
+    # Enable Lunr.js offline search
+    offlineSearch: true
+    offlineSearchMaxResults: 25
+    offlineSearchSummaryLength: 200
   prism_syntax_highlighting: true
   ui:
     breadcrumb_disable: false
-    footer_about_disable: false
+    footer_about_enable: true
     navbar_logo: true
     navbar_translucent_over_cover_disable: false
     sidebar_menu_compact: true
@@ -57,13 +60,9 @@ params:
     feedback:
       enable: true
       'yes': >-
-        Glad to hear it! Please <a
-        href="https://github.com/joeheaton/intradocs/issues/new">tell us how we
-        can improve</a>.
+        Glad to hear it! Please <a href="/issues/new">tell us how we can improve</a>.
       'no': >-
-        Sorry to hear that. Please <a
-        href="https://github.com/joeheaton/intradocs/issues/new">tell us how we
-        can improve</a>.
+        Sorry to hear that. Please <a href="/issues/new">tell us how we can improve</a>.
     readingtime:
       enable: true
   links:
@@ -160,10 +159,13 @@ languages:
     time_format_blog: 02/01/2006
     time_format_default: '2006-01-02'
     weight: 1
+    params:
+      time_format_blog: 02/01/2006
+      time_format_default: '2006-01-02'
 module:
   hugoVersion:
     extended: true
-    min: 0.75.0
+    min: 0.112.0
   # uncomment line below for temporary local development of module
   # replacement: "github.com/google/docsy -> ../../docsy"
   imports:
