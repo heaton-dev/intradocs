@@ -1,11 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – New Releases</title>
-    <link>/intradocs/blog/releases/</link>
+    <link>/blog/releases/</link>
     <description>Recent content in New Releases on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     
-	  <atom:link href="/intradocs/blog/releases/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/blog/releases/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +16,10 @@
     
     <item>
       <title>Blog: Another Great Release</title>
-      <link>/intradocs/blog/2018/01/04/another-great-release/</link>
+      <link>/blog/2018/01/04/another-great-release/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/blog/2018/01/04/another-great-release/</guid>
+      <guid>/blog/2018/01/04/another-great-release/</guid>
       <description>
         
         
@@ -247,9 +248,9 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;p&gt;Small images should be shown at their actual size.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/300/200/&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/300/200/&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Large images should always scale down and fit in the content container.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/1200/800/&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/1200/800/&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;components&#34;&gt;Components&lt;/h2&gt;
 &lt;h3 id=&#34;alerts&#34;&gt;Alerts&lt;/h3&gt;
 &lt;p&gt;

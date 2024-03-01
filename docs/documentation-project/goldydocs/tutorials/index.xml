@@ -1,12 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Tutorials</title>
-    <link>/intradocs/docs/documentation-project/goldydocs/tutorials/</link>
+    <link>/docs/documentation-project/goldydocs/tutorials/</link>
     <description>Recent content in Tutorials on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/intradocs/docs/documentation-project/goldydocs/tutorials/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/documentation-project/goldydocs/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +17,10 @@
     
     <item>
       <title>Docs: Multi-Bear Domicile Setup</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
+      <link>/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
+      <guid>/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
       <description>
         
         
@@ -252,9 +253,9 @@
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;p&gt;Small images should be shown at their actual size.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Large images should always scale down and fit in the content container.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;components&#34;&gt;Components&lt;/h2&gt;
 &lt;h3 id=&#34;alerts&#34;&gt;Alerts&lt;/h3&gt;
@@ -329,10 +330,10 @@
     
     <item>
       <title>Docs: Another Tutorial</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
+      <link>/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
+      <guid>/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
       <description>
         
         
@@ -565,9 +566,9 @@
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;p&gt;Small images should be shown at their actual size.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Large images should always scale down and fit in the content container.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;components&#34;&gt;Components&lt;/h2&gt;
 &lt;h3 id=&#34;alerts&#34;&gt;Alerts&lt;/h3&gt;

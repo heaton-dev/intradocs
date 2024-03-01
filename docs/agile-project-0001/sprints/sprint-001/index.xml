@@ -1,11 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Sprint #001</title>
-    <link>/intradocs/docs/agile-project-0001/sprints/sprint-001/</link>
+    <link>/docs/agile-project-0001/sprints/sprint-001/</link>
     <description>Recent content in Sprint #001 on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     
-	  <atom:link href="/intradocs/docs/agile-project-0001/sprints/sprint-001/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/agile-project-0001/sprints/sprint-001/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +16,10 @@
     
     <item>
       <title>Docs: Task 001</title>
-      <link>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-001/</link>
+      <link>/docs/agile-project-0001/sprints/sprint-001/task-001/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-001/</guid>
+      <guid>/docs/agile-project-0001/sprints/sprint-001/task-001/</guid>
       <description>
         
         
@@ -35,10 +36,10 @@
     
     <item>
       <title>Docs: Task 002</title>
-      <link>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-002/</link>
+      <link>/docs/agile-project-0001/sprints/sprint-001/task-002/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-002/</guid>
+      <guid>/docs/agile-project-0001/sprints/sprint-001/task-002/</guid>
       <description>
         
         

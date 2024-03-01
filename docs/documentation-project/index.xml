@@ -1,11 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Docsy Documentation</title>
-    <link>/intradocs/docs/documentation-project/</link>
+    <link>/docs/documentation-project/</link>
     <description>Recent content in Docsy Documentation on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     
-	  <atom:link href="/intradocs/docs/documentation-project/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/documentation-project/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +16,10 @@
     
     <item>
       <title>Docs: Docsy example</title>
-      <link>/intradocs/docs/documentation-project/goldydocs/</link>
+      <link>/docs/documentation-project/goldydocs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/goldydocs/</guid>
+      <guid>/docs/documentation-project/goldydocs/</guid>
       <description>
         
         
@@ -31,7 +32,7 @@
 
 &lt;p&gt;This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project.&lt;/p&gt;
 &lt;p&gt;For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the &lt;a href=&#34;https://docsy.dev/docs/&#34;&gt;Docsy User Guide&lt;/a&gt;, which lives in the &lt;a href=&#34;https://github.com/google/docsy/tree/master/userguide&#34;&gt;Docsy theme repo&lt;/a&gt; if you&amp;rsquo;d like to copy its docs section.&lt;/p&gt;
-&lt;p&gt;Other content such as marketing material, case studies, and community updates should live in the &lt;a href=&#34;/intradocs/about/&#34;&gt;About&lt;/a&gt; and &lt;a href=&#34;/intradocs/community/&#34;&gt;Community&lt;/a&gt; pages.&lt;/p&gt;
+&lt;p&gt;Other content such as marketing material, case studies, and community updates should live in the &lt;a href=&#34;/about/&#34;&gt;About&lt;/a&gt; and &lt;a href=&#34;/community/&#34;&gt;Community&lt;/a&gt; pages.&lt;/p&gt;
 &lt;p&gt;Find out how to use the Docsy theme in the &lt;a href=&#34;https://docsy.dev/docs/&#34;&gt;Docsy User Guide&lt;/a&gt;. You can learn more about how to organize your documentation (and how we organized this site) in &lt;a href=&#34;https://docsy.dev/docs/best-practices/organizing-content/&#34;&gt;Organizing Your Content&lt;/a&gt;.&lt;/p&gt;
 
       </description>
@@ -39,10 +40,10 @@
     
     <item>
       <title>Docs: Docsy overview</title>
-      <link>/intradocs/docs/documentation-project/docsy/</link>
+      <link>/docs/documentation-project/docsy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/documentation-project/docsy/</guid>
+      <guid>/docs/documentation-project/docsy/</guid>
       <description>
         
         

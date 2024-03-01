@@ -1,11 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Agile Project #1</title>
-    <link>/intradocs/docs/agile-project-0001/</link>
+    <link>/docs/agile-project-0001/</link>
     <description>Recent content in Agile Project #1 on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     
-	  <atom:link href="/intradocs/docs/agile-project-0001/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/agile-project-0001/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +16,10 @@
     
     <item>
       <title>Docs: Planning</title>
-      <link>/intradocs/docs/agile-project-0001/planning/</link>
+      <link>/docs/agile-project-0001/planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/agile-project-0001/planning/</guid>
+      <guid>/docs/agile-project-0001/planning/</guid>
       <description>
         
         
@@ -45,7 +46,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Build Team&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;team&#34;&gt;Team&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/docs/agile-project-0001/planning/team/&#34;&gt;Team&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -55,10 +56,10 @@
     
     <item>
       <title>Docs: Sprints</title>
-      <link>/intradocs/docs/agile-project-0001/sprints/</link>
+      <link>/docs/agile-project-0001/sprints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/intradocs/docs/agile-project-0001/sprints/</guid>
+      <guid>/docs/agile-project-0001/sprints/</guid>
       <description>
         
         
