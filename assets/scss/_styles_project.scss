@@ -1,0 +1,10 @@
+.feedback--title {
+  padding-top: 1rem;
+  margin-top: 3rem;
+  border-top: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+}
+
+// excessive margin
+.td-page-meta__lastmod {
+  margin-top: 0 !important;
+}
