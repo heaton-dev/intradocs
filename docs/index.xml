@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intradocs – Documentation</title>
-    <link>/docs/</link>
+    <link>/intradocs/docs/</link>
     <description>Recent content in Documentation on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/intradocs/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Bed and Chair Metrics</title>
-      <link>/docs/documentation-project/goldydocs/tasks/beds/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tasks/beds/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tasks/beds/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/beds/</guid>
       <description>
         
         
@@ -329,10 +329,10 @@
     
     <item>
       <title>Docs: Configuring Ponycopters</title>
-      <link>/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/configuring-ponycopters/</guid>
       <description>
         
         
@@ -642,10 +642,10 @@
     
     <item>
       <title>Docs: Launching Ponycopters</title>
-      <link>/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/ponycopters/launching-ponycopters/</guid>
       <description>
         
         
@@ -955,10 +955,10 @@
     
     <item>
       <title>Docs: Multi-Bear Domicile Setup</title>
-      <link>/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/multi-bear/</guid>
       <description>
         
         
@@ -1268,10 +1268,10 @@
     
     <item>
       <title>Docs: Porridge Assessment</title>
-      <link>/docs/documentation-project/goldydocs/tasks/porridge/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tasks/porridge/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tasks/porridge/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/porridge/</guid>
       <description>
         
         
@@ -1581,10 +1581,10 @@
     
     <item>
       <title>Docs: Another Task</title>
-      <link>/docs/documentation-project/goldydocs/tasks/task/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tasks/task/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tasks/task/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tasks/task/</guid>
       <description>
         
         
@@ -1894,10 +1894,10 @@
     
     <item>
       <title>Docs: Another Tutorial</title>
-      <link>/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/tutorials/tutorial2/</guid>
       <description>
         
         
@@ -2207,10 +2207,10 @@
     
     <item>
       <title>Docs: Example Page</title>
-      <link>/docs/documentation-project/goldydocs/getting-started/example-page/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/getting-started/example-page/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/getting-started/example-page/</guid>
       <description>
         
         
@@ -2520,10 +2520,10 @@
     
     <item>
       <title>Docs: Parameter Reference</title>
-      <link>/docs/documentation-project/goldydocs/reference/parameter-reference/</link>
+      <link>/intradocs/docs/documentation-project/goldydocs/reference/parameter-reference/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/documentation-project/goldydocs/reference/parameter-reference/</guid>
+      <guid>/intradocs/docs/documentation-project/goldydocs/reference/parameter-reference/</guid>
       <description>
         
         
@@ -2823,10 +2823,10 @@
     
     <item>
       <title>Docs: Task 001</title>
-      <link>/docs/agile-project-0001/sprints/sprint-001/task-001/</link>
+      <link>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-001/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agile-project-0001/sprints/sprint-001/task-001/</guid>
+      <guid>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-001/</guid>
       <description>
         
         
@@ -2843,10 +2843,10 @@
     
     <item>
       <title>Docs: Task 002</title>
-      <link>/docs/agile-project-0001/sprints/sprint-001/task-002/</link>
+      <link>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-002/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agile-project-0001/sprints/sprint-001/task-002/</guid>
+      <guid>/intradocs/docs/agile-project-0001/sprints/sprint-001/task-002/</guid>
       <description>
         
         
@@ -2877,10 +2877,10 @@
     
     <item>
       <title>Docs: Team</title>
-      <link>/docs/agile-project-0001/planning/team/</link>
+      <link>/intradocs/docs/agile-project-0001/planning/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/agile-project-0001/planning/team/</guid>
+      <guid>/intradocs/docs/agile-project-0001/planning/team/</guid>
       <description>
         
         
