@@ -1,0 +1,10 @@
+hugoVersion:
+  extended: true
+  min: 0.112.0
+# uncomment line below for temporary local development of module
+# replacement: "github.com/google/docsy -> ../../docsy"
+imports:
+  - path: github.com/google/docsy
+    disable: false
+  - path: github.com/google/docsy/dependencies
+    disable: false
