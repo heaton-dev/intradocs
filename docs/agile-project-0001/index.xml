@@ -1,71 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intradocs – Agile Project #1</title>
+    <title>Agile Project #1 on Intradocs</title>
     <link>/intradocs/docs/agile-project-0001/</link>
     <description>Recent content in Agile Project #1 on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    
-	  <atom:link href="/intradocs/docs/agile-project-0001/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Docs: Planning</title>
-      <link>/intradocs/docs/agile-project-0001/planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/intradocs/docs/agile-project-0001/planning/</guid>
-      <description>
-        
-        
-        &lt;p&gt;ACME Ltd. is working on a next-gen corporate authentication system with synergy.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Tasks&lt;/th&gt;
-&lt;th&gt;Result&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Send questionnaire to client&lt;/td&gt;
-&lt;td&gt;Emailed over by Jim&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Respond to any questions&lt;/td&gt;
-&lt;td&gt;Had a call with their Project Manager regarding wording of Q2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Recieve questionnaire back&lt;/td&gt;
-&lt;td&gt;☑&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Build Team&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/intradocs/intradocs/docs/agile-project-0001/planning/team/&#34;&gt;Team&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Sprints</title>
-      <link>/intradocs/docs/agile-project-0001/sprints/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/intradocs/docs/agile-project-0001/sprints/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
+    <atom:link href="/intradocs/docs/agile-project-0001/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

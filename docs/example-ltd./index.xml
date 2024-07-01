@@ -1,18 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intradocs – Example Ltd.</title>
+    <title>Example Ltd. on Intradocs</title>
     <link>/intradocs/docs/example-ltd./</link>
     <description>Recent content in Example Ltd. on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    
-	  <atom:link href="/intradocs/docs/example-ltd./index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <atom:link href="/intradocs/docs/example-ltd./index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

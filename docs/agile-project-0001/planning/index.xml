@@ -1,37 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intradocs – Planning</title>
+    <title>Planning on Intradocs</title>
     <link>/intradocs/docs/agile-project-0001/planning/</link>
     <description>Recent content in Planning on Intradocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    
-	  <atom:link href="/intradocs/docs/agile-project-0001/planning/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <atom:link href="/intradocs/docs/agile-project-0001/planning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docs: Team</title>
+      <title>Team</title>
       <link>/intradocs/docs/agile-project-0001/planning/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/intradocs/docs/agile-project-0001/planning/team/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;Kim, Project Manager&lt;/li&gt;
-&lt;li&gt;Bim, Developer&lt;/li&gt;
-&lt;li&gt;Jim, Senior Engineer&lt;/li&gt;
-&lt;li&gt;Tim, Engineer&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
+      <description> Kim, Project Manager Bim, Developer Jim, Senior Engineer Tim, Engineer </description>
     </item>
-    
   </channel>
 </rss>
